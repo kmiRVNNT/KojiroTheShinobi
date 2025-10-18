@@ -24,4 +24,4 @@ Using a simple *click-to-move* and *click-to-attack* system, each slash targets 
 
 ## 👤 Developer  
 
-Developed by **KMI RVNNT** — Software Developer & Game Designer  
+Developed by **Khiar Ibrahim** — Software Developer & Game Designer  
